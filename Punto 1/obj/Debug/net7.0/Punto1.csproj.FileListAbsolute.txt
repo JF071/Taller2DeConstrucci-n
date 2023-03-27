@@ -1,0 +1,40 @@
+C:\Users\Juan Felipe\Punto1\obj\Debug\net7.0\Punto1.csproj.AssemblyReference.cache
+C:\Users\Juan Felipe\Punto1\obj\Debug\net7.0\Punto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Felipe\Punto1\obj\Debug\net7.0\Punto1.AssemblyInfoInputs.cache
+C:\Users\Juan Felipe\Punto1\obj\Debug\net7.0\Punto1.AssemblyInfo.cs
+C:\Users\Juan Felipe\Punto1\obj\Debug\net7.0\Punto1.csproj.CoreCompileInputs.cache
+C:\Users\jhoel\Downloads\Punto1\Punto1\obj\Debug\net7.0\Punto1.csproj.AssemblyReference.cache
+C:\Users\jhoel\Downloads\Punto1\Punto1\obj\Debug\net7.0\Punto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoel\Downloads\Punto1\Punto1\obj\Debug\net7.0\Punto1.AssemblyInfoInputs.cache
+C:\Users\jhoel\Downloads\Punto1\Punto1\obj\Debug\net7.0\Punto1.AssemblyInfo.cs
+C:\Users\jhoel\Downloads\Punto1\Punto1\obj\Debug\net7.0\Punto1.csproj.CoreCompileInputs.cache
+C:\Users\Juan Felipe\Downloads\Punto1\obj\Debug\net7.0\Punto1.csproj.AssemblyReference.cache
+C:\Users\Juan Felipe\Downloads\Punto1\obj\Debug\net7.0\Punto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Felipe\Downloads\Punto1\obj\Debug\net7.0\Punto1.AssemblyInfoInputs.cache
+C:\Users\Juan Felipe\Downloads\Punto1\obj\Debug\net7.0\Punto1.AssemblyInfo.cs
+C:\Users\Juan Felipe\Downloads\Punto1\obj\Debug\net7.0\Punto1.csproj.CoreCompileInputs.cache
+C:\Users\Juan Felipe\Downloads\Punto1\bin\Debug\net7.0\Punto1.exe
+C:\Users\Juan Felipe\Downloads\Punto1\bin\Debug\net7.0\Punto1.deps.json
+C:\Users\Juan Felipe\Downloads\Punto1\bin\Debug\net7.0\Punto1.runtimeconfig.json
+C:\Users\Juan Felipe\Downloads\Punto1\bin\Debug\net7.0\Punto1.dll
+C:\Users\Juan Felipe\Downloads\Punto1\bin\Debug\net7.0\Punto1.pdb
+C:\Users\Juan Felipe\Downloads\Punto1\obj\Debug\net7.0\Punto1.dll
+C:\Users\Juan Felipe\Downloads\Punto1\obj\Debug\net7.0\refint\Punto1.dll
+C:\Users\Juan Felipe\Downloads\Punto1\obj\Debug\net7.0\Punto1.pdb
+C:\Users\Juan Felipe\Downloads\Punto1\obj\Debug\net7.0\Punto1.genruntimeconfig.cache
+C:\Users\Juan Felipe\Downloads\Punto1\obj\Debug\net7.0\ref\Punto1.dll
+C:\Users\Juan Felipe\Desktop\df\Punto1\bin\Debug\net7.0\Punto1.exe
+C:\Users\Juan Felipe\Desktop\df\Punto1\bin\Debug\net7.0\Punto1.deps.json
+C:\Users\Juan Felipe\Desktop\df\Punto1\bin\Debug\net7.0\Punto1.runtimeconfig.json
+C:\Users\Juan Felipe\Desktop\df\Punto1\bin\Debug\net7.0\Punto1.dll
+C:\Users\Juan Felipe\Desktop\df\Punto1\bin\Debug\net7.0\Punto1.pdb
+C:\Users\Juan Felipe\Desktop\df\Punto1\obj\Debug\net7.0\Punto1.csproj.AssemblyReference.cache
+C:\Users\Juan Felipe\Desktop\df\Punto1\obj\Debug\net7.0\Punto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Felipe\Desktop\df\Punto1\obj\Debug\net7.0\Punto1.AssemblyInfoInputs.cache
+C:\Users\Juan Felipe\Desktop\df\Punto1\obj\Debug\net7.0\Punto1.AssemblyInfo.cs
+C:\Users\Juan Felipe\Desktop\df\Punto1\obj\Debug\net7.0\Punto1.csproj.CoreCompileInputs.cache
+C:\Users\Juan Felipe\Desktop\df\Punto1\obj\Debug\net7.0\Punto1.dll
+C:\Users\Juan Felipe\Desktop\df\Punto1\obj\Debug\net7.0\refint\Punto1.dll
+C:\Users\Juan Felipe\Desktop\df\Punto1\obj\Debug\net7.0\Punto1.pdb
+C:\Users\Juan Felipe\Desktop\df\Punto1\obj\Debug\net7.0\Punto1.genruntimeconfig.cache
+C:\Users\Juan Felipe\Desktop\df\Punto1\obj\Debug\net7.0\ref\Punto1.dll

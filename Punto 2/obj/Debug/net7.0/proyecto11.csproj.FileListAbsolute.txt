@@ -1,0 +1,15 @@
+C:\Users\RYZEN\proyecto11\obj\Debug\net7.0\proyecto11.csproj.AssemblyReference.cache
+C:\Users\RYZEN\proyecto11\obj\Debug\net7.0\proyecto11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RYZEN\proyecto11\obj\Debug\net7.0\proyecto11.AssemblyInfoInputs.cache
+C:\Users\RYZEN\proyecto11\obj\Debug\net7.0\proyecto11.AssemblyInfo.cs
+C:\Users\RYZEN\proyecto11\obj\Debug\net7.0\proyecto11.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\proyecto11\bin\Debug\net7.0\proyecto11.exe
+C:\Users\RYZEN\proyecto11\bin\Debug\net7.0\proyecto11.deps.json
+C:\Users\RYZEN\proyecto11\bin\Debug\net7.0\proyecto11.runtimeconfig.json
+C:\Users\RYZEN\proyecto11\bin\Debug\net7.0\proyecto11.dll
+C:\Users\RYZEN\proyecto11\bin\Debug\net7.0\proyecto11.pdb
+C:\Users\RYZEN\proyecto11\obj\Debug\net7.0\proyecto11.dll
+C:\Users\RYZEN\proyecto11\obj\Debug\net7.0\refint\proyecto11.dll
+C:\Users\RYZEN\proyecto11\obj\Debug\net7.0\proyecto11.pdb
+C:\Users\RYZEN\proyecto11\obj\Debug\net7.0\proyecto11.genruntimeconfig.cache
+C:\Users\RYZEN\proyecto11\obj\Debug\net7.0\ref\proyecto11.dll
